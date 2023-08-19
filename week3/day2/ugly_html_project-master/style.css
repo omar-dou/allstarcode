@@ -1,0 +1,73 @@
+body{
+    background: black;
+}
+.pokemon_images {
+    margin-left: 45%;
+    height: 200px;
+    width: 200px;
+    margin-top: 3%
+  
+
+}
+.introduction h1 {
+    background: rgb(65, 65, 165);
+    width: 100%;
+    text-align: center;
+    color: rgb(214, 185, 22);
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+
+}
+.introduction h2 {
+    color: white;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+
+}
+#bulbasaur_container {
+    border-radius: 25px;
+    border: 3px solid #dcc25c;
+    background: rgb(155, 208, 122);
+    padding: 20px;
+    width: 100%px;
+    height: 10%;
+    color: white;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    
+}
+#charmander_container {
+    border-radius: 25px;
+    border: 3px solid #dcc25c;
+    background: rgb(221, 153, 84);
+    padding: 20px;
+    width: 100%px;
+    height: 10%;
+    color: white;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+
+
+}
+#squirtle_container {
+    border-radius: 25px;
+    border: 3px solid #dcc25c;
+    background: rgb(122, 175, 208);
+    padding: 20px;
+    width: 100%px;
+    height: 10%;
+    color: white;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+
+
+}
+#starters_image_div img{
+    margin-left: 39%;
+    border: 3px solid #1d1f5f;
+    padding: 3px;
+
+
+
+}
+
+.list{
+    color: white;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+
+}

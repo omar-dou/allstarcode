@@ -1,0 +1,26 @@
+h1 {
+	font-family: Helvetica;
+	text-align: center;
+}
+
+img {
+	width: 100px;
+}
+
+div div {
+	margin: auto;
+	width: 33%;
+	height: 100px;
+}
+
+#big_div {
+	border: 5px solid black;
+}
+
+#sub_div1 {
+	margin-left: 2%;
+}
+
+#sub_div3 {
+	margin-left: 74%;
+}
